@@ -139,3 +139,4 @@ cython_debug/
 .jupyterlab-config
 test-qr-codes/
 host-qr-codes/
+.DS_Store
